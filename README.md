@@ -1,6 +1,6 @@
 # Spotify Clone
 
-<img src="~/Desktop/spotify_image.png" alt="Spotify Clone Screenshot" width="500">
+![Spotify Clone Screenshot](spotify_clone/spotify_image.png)
 
 This project is a custom Spotify-like platform where songs are dynamically uploaded and displayed on the website. It leverages AWS services, a database, and an external API to manage and deliver a seamless user experience.
 
